@@ -2,8 +2,6 @@
 content_type: page
 description: This calendar features highlights of the topics and themes addressed
   in the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Calendar

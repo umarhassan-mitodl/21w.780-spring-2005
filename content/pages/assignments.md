@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a listing of weekly course topics, exercises, and
   assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Assignments

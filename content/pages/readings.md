@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides citations for required course texts and the readings
   assigned for each week of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Readings
@@ -17,7 +15,7 @@ Myerson, George, and Martin Heidegger. _Habermas and the Mobile Phone_. Blue Rid
 
 Heidegger, Martin. _The Question Concerning Technology_. New York, NY: Harper Perennial, 1982. ISBN: 9780061319693.
 
-Perelman, Les, et. al. [_The Mayfield Handbook of Technical and Scientific Writing_](http://web.mit.edu/course/21/21.guide/Demo/web/).
+Perelman, Les, et. al. {{% resource_link "e5a5fb60-c85f-4456-a593-d411b5593713" "_The Mayfield Handbook of Technical and Scientific Writing_" %}}.
 
 Other readings to be handed out in class or electronically.
 
@@ -81,7 +79,7 @@ Each student is assigned a topic in his or her field of expertise, and must writ
 {{< tdopen >}}
 
 
-Essay by Tufte, Edward. [_The Cognitive Style of PowerPoint_](http://www.edwardtufte.com/tufte/powerpoint). Cheshire, CT: Graphics Press, LLC. 2003.
+Essay by Tufte, Edward. {{% resource_link "cb5fb65b-adcc-4c4e-b6da-d531fe56f230" "_The Cognitive Style of PowerPoint_" %}}. Cheshire, CT: Graphics Press, LLC. 2003.
 
 Mayfield Handbook. Section 10.
 
@@ -109,7 +107,7 @@ Myerson
 
 Myerson, George, and Heidegger, Martin. _Habermas and the Mobile Phone_. Blue Ridge Summit, PA: Totem Books, 2001. ISBN: 9781840462364.
 
-Mackenzie, Adrian. "The performativity of code: Software and cultures of circulation." ([PDF](http://www.lancs.ac.uk/staff/mackenza/papers/code_performativity.pdf))
+Mackenzie, Adrian. "The performativity of code: Software and cultures of circulation." ({{% resource_link "671cbe48-5760-44fd-92f7-d87a68a3be9e" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -183,7 +181,7 @@ Web Design Issues
 {{< tdopen >}}
 
 
-[MIT guide to web design](http://ist.mit.edu/services/web/reference)
+{{% resource_link "884a8405-c7ff-4e2c-8ff8-1e12a8d41827" "MIT guide to web design" %}}
 
 
 {{< tdclose >}}
@@ -207,7 +205,7 @@ Kittler and Blog Debates
 {{< tdopen >}}
 
 
-Kittler. "[There is No Software](http://raley.english.ucsb.edu/wp-content/Engl800/Kittler-nosoftware.pdf)."
+Kittler. "{{% resource_link "9f965152-3667-432c-97ea-dbcad874f825" "There is No Software" %}}."
 
 
 {{< tdclose >}}
